@@ -24,7 +24,7 @@ int main(){
   int temp = 0;
   for ( int i=0; i<n; i++ ){
     for ( int j=0; j<n; j++ ){
-      if( a[i]>a[j]){
+      if( a[i]<a[j]){
         temp=a[i];
         a[i]=a[j];
         a[j]=temp;
@@ -33,7 +33,7 @@ int main(){
   }
 
 
-  cout<<"\n\n sorted array : { ";
+  cout<<"\n\nsorted array : { ";
   for ( int i=0; i<n; i++ ){
     cout<<"\t"<<a[i];              // displaying  sorted array
   }
