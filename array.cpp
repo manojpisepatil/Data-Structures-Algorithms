@@ -4,19 +4,19 @@ using namespace std;
 int main(){
   int n;
   cout<<"enter the count : ";
-  cin>>n;
+  cin>>n;                            // taking size of array from user 
 
-  int a[n]={ };
+  int a[n]={ };                      // Dynamic array
 
   for( int i=0; i<n; i++ ){
     cout<<"enter element : ";
-    cin>>a[i];
+    cin>>a[i];                     // taking input in array 
   }
   
   cout<<" array : { ";
   
   for( int i=0; i<n; i++ ){
-    cout<<"\t"<<a[i];
+    cout<<"\t"<<a[i];              // Displaying array elements 
   }
   cout<<" }";
 
