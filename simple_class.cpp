@@ -20,7 +20,6 @@ class Room {
 
 int main() {
 
-    // create object of Room class
     Room room1;
 
     // assign values to data members
