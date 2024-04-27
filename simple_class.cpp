@@ -1,7 +1,7 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
-// create a class
 class Room {
 
    public:
