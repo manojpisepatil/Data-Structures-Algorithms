@@ -3,6 +3,7 @@
 #include <cmath>
 using namespace std;
 
+// Parent Class
 class Room {
    public:
     double length;
