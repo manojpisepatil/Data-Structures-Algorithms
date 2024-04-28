@@ -4,7 +4,6 @@
 using namespace std;
 
 class Room {
-
    public:
     double length;
     double breadth;
