@@ -11,7 +11,7 @@ class Room {
 
 };
 
-// Single Inheritance
+// Single Inheritance  ( Child Class )
 class Home : public Room {
     public :
       double calculate_area() {
