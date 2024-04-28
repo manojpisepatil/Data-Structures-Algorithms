@@ -23,9 +23,10 @@ class Home : public Room {
       }
 };
 
+
 int main() {
 
-    Home room1;
+    Home room1;     // Object of Child Class
 
     // assign values to data members
     room1.length = 42.5;
