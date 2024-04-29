@@ -13,7 +13,7 @@ public:
 	}
 };
 
-// derived class from base class
+// derived class from Parent Class
 class B : public A {
 public:
 	int b;
