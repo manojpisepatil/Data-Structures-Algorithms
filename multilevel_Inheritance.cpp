@@ -24,7 +24,7 @@ public:
 	}
 };
 
-// derived from class derive1
+// derived from class Previous derived class
 class C : public B {
 private:
 	int c;
