@@ -1,4 +1,3 @@
-
 // Multilevel Inheritance
 #include <iostream>
 using namespace std;
@@ -46,7 +45,7 @@ public:
 };
 int main()
 {
-	// object of sub class
+	// object of derived class
 	C obj;
 
 	obj.get_A_data();
