@@ -26,7 +26,7 @@ int main() {
     // Logic Created for finding k parents from the array
     
     for ( int i=1; i<n+1; i++){
-        if(a[i]+a[i+1] == k){                // at minimum cost of time amd space for better complexity
+        if(a[i]+a[i+1] == k){                // at minimum cost of time and space for better complexity
             cout<<"Values are : ";
             cout<<a[i]<<" & "<<a[i+1];
             cout<<" for , index  "<<i<<" , "<<i+1<<" respectively";
