@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-// single base class
+// Parent Class
 class A {
 public:
 	int a;
