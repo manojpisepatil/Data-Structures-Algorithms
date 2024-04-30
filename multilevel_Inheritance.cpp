@@ -1,5 +1,6 @@
 // Multilevel Inheritance
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 // Parent Class
