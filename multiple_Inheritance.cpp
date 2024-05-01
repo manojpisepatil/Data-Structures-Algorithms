@@ -1,5 +1,6 @@
 #include <iostream>  
 #include <cmath> 
+#include <string> 
 using namespace std;  
   
 // create a base class1  
