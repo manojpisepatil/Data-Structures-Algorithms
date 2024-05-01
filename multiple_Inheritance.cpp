@@ -1,7 +1,7 @@
 #include <iostream>   
 #include <cmath> 
 #include <string> 
-using namespace std;  
+using namespace std;   
   
 // create a base class1  
 class Base_class  
