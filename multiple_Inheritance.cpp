@@ -43,7 +43,7 @@ class child_class: public Base_class, public Base_class2
 int main ()  
 {  
     // create an object for derived class  
-    child_class ch;  
+    child_class ch;   
     ch.display(); // call member function of Base_class1  
     ch.display2(); // call member function of Base_class2  
     ch.display3(); // call member function of child_class  
