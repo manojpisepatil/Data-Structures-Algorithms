@@ -3,7 +3,7 @@
 #include <string> 
 using namespace std;   
   
-// create a base class1   
+// create a base class1    
 class Base_class  
 {  
     // access specifier  
