@@ -1,4 +1,5 @@
 #include <iostream>  
+#include <cmath> 
 using namespace std;  
   
 // create a base class1  
