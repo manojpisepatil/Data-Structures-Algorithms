@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>  
-using namespace std; 
+using namespace std;  
  
 // base class
 class Animal {
