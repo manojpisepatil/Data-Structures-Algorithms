@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cmath>  
 using namespace std;  
- 
+   
 // base class
 class Animal {
 public:
