@@ -3,7 +3,7 @@
 using namespace std; 
 
 // Base class 
-class Person {  
+class Person {   
 protected: 
 	string name;  
 
