@@ -5,7 +5,7 @@ using namespace std;
 // Base class 
 class Person {  
 protected: 
-	string name; 
+	string name;  
 
 public: 
 	Person(const string& name) 
