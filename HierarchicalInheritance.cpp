@@ -8,7 +8,7 @@ public:
     void info() {
         cout << "I am an animal." << endl;
     }
-};n
+};
 
 // derived class 1
 class Dog : public Animal {
