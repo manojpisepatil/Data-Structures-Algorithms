@@ -3,7 +3,7 @@
 using namespace std;  
    
 // base class
-class Animal {
+class Animal { 
 public:
     void info() {
         cout << "I am an animal." << endl;
