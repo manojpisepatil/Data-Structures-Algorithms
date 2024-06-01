@@ -2,7 +2,7 @@
 #include <string>
 #include<cmath>
 using namespace std;   
-int main(){  
+int main(){   
   int n; 
   cout<<"enter count : ";     // element count in array
   cin>>n;
