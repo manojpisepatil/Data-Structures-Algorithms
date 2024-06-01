@@ -3,7 +3,7 @@
 #include<cmath>
 using namespace std;   
 int main(){  
-  int n;
+  int n; 
   cout<<"enter count : ";     // element count in array
   cin>>n;
 
