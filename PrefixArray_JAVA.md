@@ -32,6 +32,29 @@ public class PrefixArray {
     }   
 }
 ```
+
+## Explanation
+```
+For subarray from index 0 to 0: sum = prefix[0] = 1
+
+For subarray from index 0 to 1: sum = prefix[1] = 3
+
+For subarray from index 0 to 2: sum = prefix[2] = 6
+
+For subarray from index 0 to 3: sum = prefix[3] = 10
+
+For subarray from index 0 to 4: sum = prefix[4] = 15
+
+For subarray from index 0 to 5: sum = prefix[5] = 21
+
+For subarray from index 0 to 6: sum = prefix[6] = 28
+
+For subarray from index 0 to 7: sum = prefix[7] = 36
+
+For subarray from index 0 to 8: sum = prefix[8] = 45
+
+For subarray from index 0 to 9: sum = prefix[9] = 55
+```
 ## Sample Output
 ```
 SUM : 1
@@ -74,3 +97,4 @@ SUM : 36
 SUM : 45
 SUM : 45
 maxsum is : 55
+```
