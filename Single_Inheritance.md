@@ -1,3 +1,10 @@
+# Single Inheritance in C++
+
+This C++ program demonstrates **single inheritance** where a child class inherits from a single parent class. The program defines a parent class `Room`, and a child class `Home` that inherits from `Room` and adds methods to calculate the area and volume of the room.
+
+## Code
+
+```cpp
 #include <iostream>
 #include <string>
 #include <cmath>
@@ -9,10 +16,9 @@ class Room {
     double length;
     double breadth;
     double height;
-
 };
 
-// Single Inheritance  ( Child Class )
+// Single Inheritance ( Child Class )
 class Home : public Room {
     public :
       double calculate_area() {
@@ -23,7 +29,6 @@ class Home : public Room {
           return length * breadth * height;
       }
 };
-
 
 int main() {
 
@@ -40,3 +45,10 @@ int main() {
 
     return 0;
 }
+```
+## Sample Output
+
+```
+Area of Room =  1308.0
+Volume of Room =  7973.76
+
