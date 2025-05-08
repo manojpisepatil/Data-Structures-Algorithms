@@ -1,3 +1,10 @@
+# Room Area and Volume Calculator in C++
+
+This C++ program defines a `Room` class that calculates the area and volume of a room. The class has three data members: `length`, `breadth`, and `height`, and two member functions: one to calculate the area and one to calculate the volume.
+
+## Code
+
+```cpp
 #include <iostream>
 #include <string>
 #include <cmath>
@@ -34,3 +41,9 @@ int main() {
 
     return 0;
 }
+```
+## Sample Output
+```
+Area of Room =  1308.2
+Volume of Room =  24357.6
+
