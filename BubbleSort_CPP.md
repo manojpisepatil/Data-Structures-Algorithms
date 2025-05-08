@@ -44,7 +44,7 @@ int main(){
 }
 ```
 
-##Sample output
+## Sample output
 ```
 enter count : 5
 enter element : 8
