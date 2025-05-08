@@ -1,3 +1,10 @@
+# Prime Number Checker in Java
+
+This Java program checks whether a given number is a **prime number** or not. A prime number is a number greater than 1 that has no divisors other than 1 and itself.
+
+## Code
+
+```java
 import java.util.*;
 
 public class primeNum{
@@ -24,3 +31,8 @@ public class primeNum{
         }
     }
 }
+```
+## Sample Output
+```
+Enter the number : 7
+Prime number
